@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dfd85a547a5609f42b04e83bd05a1acc, type: 3}
+  m_Name: Bones
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 1976387891488567387, guid: 7be3f4f36c9cec84bbf3b4ce8fc0c019, type: 3}
+  type: 2
+  description: The left overs of tose you slain
